@@ -116,7 +116,7 @@
             Controls.Add(dataGridView1);
             Controls.Add(btnAdd);
             Name = "frmMain";
-            Text = "Add";
+            Text = "Main Form";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
